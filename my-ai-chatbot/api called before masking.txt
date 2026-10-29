@@ -1,0 +1,49 @@
+api called before masking
+
+
+
+Masking/de-identification
+File encryption
+HTTPS/TLS
+
+
+common approach is pydicom
+
+
+             X-RAY / CT UPLOAD
+                    │
+                    ▼
+          ┌───────────────────┐
+          │ File identification│
+          └─────────┬─────────┘
+                       │
+             ┌──── ──┴────────┐
+             ▼           	  ▼
+          DICOM          	JPG/PNG
+             │            		 │
+             ▼             	  ▼
+       DICOM de-ID      	 OCR
+             │            		 │
+             │       		Detect patient text
+             │             		 │
+             │             		 ▼
+             │        		Pixel masking
+             │            		 │
+             └──────┬────────
+                    ▼
+            DE-IDENTIFIED FILE
+                    │
+                    ▼
+              Validation
+                    │
+                    ▼
+               API CALL
+
+
+
+
+
+
+
+Phase 1 completed: Developed and tested a functional DICOM de-identification API prototype capable of removing metadata PHI and performing basic OCR-based pixel masking, with initial validation using the MIDI-B Synthetic Validation dataset.
+

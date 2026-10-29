@@ -1,0 +1,21 @@
+services:
+
+  backend:
+    build:
+      context: ./backend
+    container_name: dunkin-backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: dunkin-frontend
+    ports:
+      - "5500:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

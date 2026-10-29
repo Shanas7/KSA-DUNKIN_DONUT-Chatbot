@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Hazelnut Dunkaccino",
+    "price": 199.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Classic Dunkaccino",
+    "price": 169.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Caramel Dunkaccino",
+    "price": 189.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Choco Hazelnut Dunkaccino",
+    "price": 179.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Mocha Chip Dunkaccino",
+    "price": 189.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Classic Iced Coffee",
+    "price": 159.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Hazelnut Iced Coffee",
+    "price": 189.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Choco Iced Coffee",
+    "price": 189.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Caramel Iced Coffee",
+    "price": 189.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Fruit Berry",
+    "price": 209.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Chocolate Milk Shake",
+    "price": 179.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Virgin Mojito",
+    "price": 119.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Classic Lemonade",
+    "price": 119.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Cookie Crumble Super Thick Cold Coffee",
+    "price": 219.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Cookie Mocha Super Thick Cold Coffee",
+    "price": 219.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Classic Cold Coffee",
+    "price": 169.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Hazelnut Cold Coffee",
+    "price": 169.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Caramel Cold Coffee",
+    "price": 189.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Lemon Iced Tea",
+    "price": 149.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Peach Iced Tea",
+    "price": 169.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Pepsi - 500ml",
+    "price": 60.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Bailley Premium (500ml)",
+    "price": 19.0,
+    "category": "Cold Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Regular Chai",
+    "price": 159.0,
+    "category": "Hot Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Elaichi Chai",
+    "price": 199.0,
+    "category": "Hot Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Fresh Ginger Chai",
+    "price": 199.0,
+    "category": "Hot Beverages",
+    "customisable": true
+  },
+  {
+    "name": "Big Joy Veg Burger Meal",
+    "price": 199.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Big Joy Mayo Veg Burger Meal",
+    "price": 219.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Double Big Joy Mayo Veg Burger Meal",
+    "price": 259.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Chef Special Veg Burger Meal",
+    "price": 309.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Naughty Lucy Veg Burger Meal",
+    "price": 399.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Farmhouse Monster Meal",
+    "price": 379.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Big Joy Mayo Burger Non Veg Meal",
+    "price": 249.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Double Big Joy Mayo Burger Chicken Meal",
+    "price": 279.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Classic Chicken Burger Meal",
+    "price": 219.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Spicy Grilled Chicken Burger Meal",
+    "price": 319.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Heaven Can Wait Burger Meal",
+    "price": 379.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Naughty Lucy Chicken Burger Meal",
+    "price": 399.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Chicken Grilled Monster Burger Meal",
+    "price": 399.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Double Big Joy Veg Burger Meal",
+    "price": 249.0,
+    "category": "Burger Meals",
+    "customisable": false
+  },
+  {
+    "name": "Big Joy Veg Burger",
+    "price": 89.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Double Big Joy Veg Burger",
+    "price": 139.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Chef Special Veg Burger",
+    "price": 189.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Naughty Lucy Veg Burger",
+    "price": 279.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Farmhouse Monster Burger",
+    "price": 259.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Big Joy Mayo Chicken Burger",
+    "price": 139.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Classic Chicken Burger",
+    "price": 119.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Spicy Grilled Chicken Burger",
+    "price": 189.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Heaven Can Wait Burger",
+    "price": 259.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Naughty Lucy Chicken Burger",
+    "price": 279.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Grilled Chicken Monster Burger",
+    "price": 289.0,
+    "category": "Single Burger",
+    "customisable": false
+  },
+  {
+    "name": "Veg Makhani Wrap",
+    "price": 169.0,
+    "category": "Wraps",
+    "customisable": false
+  },
+  {
+    "name": "Chicken Makhani Wrap",
+    "price": 179.0,
+    "category": "Wraps",
+    "customisable": false
+  },
+  {
+    "name": "Potato Hash Brown (3 Pcs)",
+    "price": 79.0,
+    "category": "Snacks",
+    "customisable": false
+  },
+  {
+    "name": "Tex Mex Potato Wedges",
+    "price": 79.0,
+    "category": "Snacks",
+    "customisable": false
+  },
+  {
+    "name": "Nachos Veg",
+    "price": 99.0,
+    "category": "Snacks",
+    "customisable": false
+  },
+  {
+    "name": "Nachos Chicken",
+    "price": 109.0,
+    "category": "Snacks",
+    "customisable": false
+  },
+  {
+    "name": "Pack of 6 All Time Favourite Donuts",
+    "price": 399.0,
+    "category": "Combos",
+    "customisable": true
+  },
+  {
+    "name": "Buy 9 Get 3 FREE!! All Time Favourite Donuts",
+    "price": 749.0,
+    "category": "Combos",
+    "customisable": true
+  },
+  {
+    "name": "Pack of 3 All Time Favourite Donuts",
+    "price": 229.0,
+    "category": "Combos",
+    "customisable": true
+  },
+  {
+    "name": "Pack of 6 Classic Donuts",
+    "price": 349.0,
+    "category": "Combos",
+    "customisable": true
+  },
+  {
+    "name": "Big Joy Veg Burger Meal",
+    "price": 175.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Big Joy Mayo Veg Burger Meal",
+    "price": 205.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Double Big Joy Mayo Veg Burger Meal",
+    "price": 235.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Naughty Lucy Veg Burger Meal",
+    "price": 399.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Farmhouse Monster Meal",
+    "price": 379.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Big Joy Mayo Burger Non Veg Meal",
+    "price": 225.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Double Big Joy Mayo Burger Chicken Meal",
+    "price": 259.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Classic Chicken Burger Meal",
+    "price": 205.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Spicy Grilled Chicken Burger Meal",
+    "price": 319.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Heaven Can Wait Burger Meal",
+    "price": 335.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Naughty Lucy Chicken Burger Meal",
+    "price": 399.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Chicken Grilled Monster Burger Meal",
+    "price": 369.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Box of 3 ATF + 2 Cold Coffee",
+    "price": 469.0,
+    "category": "Combos",
+    "customisable": true
+  },
+  {
+    "name": "2 Dunkin' Cold Coffee",
+    "price": 199.0,
+    "category": "Combos",
+    "customisable": true
+  },
+  {
+    "name": "Buy 4 Get 2 Free Signature Donuts",
+    "price": 449.0,
+    "category": "Combos",
+    "customisable": true
+  },
+  {
+    "name": "Double Big Joy Veg Burger Meal",
+    "price": 239.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Chef's Special Veg Burger Meal",
+    "price": 319.0,
+    "category": "Combos",
+    "customisable": false
+  },
+  {
+    "name": "Cart",
+    "price": 0.0,
+    "category": "Combos",
+    "customisable": false
+  }
+]

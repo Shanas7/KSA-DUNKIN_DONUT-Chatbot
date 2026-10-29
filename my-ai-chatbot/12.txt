@@ -1,0 +1,13 @@
+12
+
+
+
+
+3 Pretrained and usable as-is. No training needed. You only build a test set to prove it works on AlMas scanners and
+AlMas patients
+
+6 A strong pretrained base exists. You train a small head, or fine-tune, on a few hundred labelled studies. Labels
+can often be mined from old report text rather than drawn by hand 
+
+3 No usable public model or dataset. A radiologist must mark images from zero. This is the expensive path:
+annotation hours, not GPU hours, are the cost.

@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dunkin AI Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         SIDEBAR
+    ========================== -->
+
+    <aside class="sidebar">
+
+        <!-- Logo -->
+        <div class="brand">
+
+            <img
+                src="https://s3-ap-southeast-1.amazonaws.com/assets.limetray.com/assets/user_images/logos/original/1636632610_1602742091DUNKINLogo2.png"
+                alt="Dunkin Logo"
+                class="dunkin-logo"
+            >
+
+            <div class="assistant-title">
+                <span class="spark">✦</span>
+                <span>AI ASSISTANT</span>
+                <span class="check">✓</span>
+            </div>
+
+        </div>
+
+
+        <!-- New Chat -->
+        <button class="new-chat-button" id="newChatButton">
+            <span class="new-chat-icon">＋</span>
+            <span>New Chat</span>
+        </button>
+
+
+        <!-- Navigation -->
+        <nav class="navigation">
+
+            <button class="nav-item active">
+                <span class="nav-icon">✦</span>
+                <span>Menu Highlights</span>
+            </button>
+
+            <button class="nav-item">
+                <span class="nav-icon">▣</span>
+                <span>Beverages</span>
+            </button>
+
+            <button class="nav-item">
+                <span class="nav-icon">☰</span>
+                <span>Burgers</span>
+            </button>
+
+            <button class="nav-item">
+                <span class="nav-icon">♧</span>
+                <span>Snacks</span>
+            </button>
+
+            <button class="nav-item">
+                <span class="nav-icon">♢</span>
+                <span>Combos</span>
+            </button>
+
+        </nav>
+
+
+        <!-- Sidebar Bottom -->
+        <div class="sidebar-bottom">
+
+            <!-- Report an Issue -->
+            <button
+                class="complaint-button"
+                id="complaintButton"
+            >
+                <span class="complaint-icon">⚑</span>
+                <span>Report an Issue</span>
+            </button>
+
+
+            <!-- Dark Mode -->
+            <button
+                class="dark-mode-button"
+                id="darkModeButton"
+            >
+
+                <span class="moon">☾</span>
+
+                <span class="dark-mode-text">
+                    Dark Mode
+                </span>
+
+                <span class="toggle">
+                    <span class="toggle-dot"></span>
+                </span>
+
+            </button>
+
+
+            <p class="sidebar-footer">
+                AI-powered menu assistant
+            </p>
+
+        </div>
+
+    </aside>
+
+
+
+    <!-- =========================
+         MAIN CONTENT
+    ========================== -->
+
+    <main class="main-content">
+
+        <!-- Hero -->
+        <section class="hero">
+
+            <div class="hero-text">
+
+                <h1>
+                    Hi there! <span>👋</span>
+                </h1>
+
+                <p>
+                    Ask me anything about the Dunkin menu,
+                    prices, categories and more.
+                </p>
+
+            </div>
+
+
+            <!-- Local transparent image -->
+            <div class="hero-art">
+
+                <img
+                    src="./images/dunkin-hero.png"
+                    alt="Dunkin coffee and donut"
+                    class="hero-image"
+                >
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =========================
+             CHAT PANEL
+        ========================== -->
+
+        <section class="chat-panel">
+
+            <div
+                class="messages"
+                id="messages"
+            >
+
+                <!-- Assistant message -->
+                <div class="message assistant-message">
+
+                    <div class="avatar">
+                        DN
+                    </div>
+
+                    <div class="message-bubble">
+
+                        <p>
+                            Hello! 👋 I'm your Dunkin AI assistant.
+                        </p>
+
+                        <p>
+                            I can help you with menu items,
+                            prices, categories and more.
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+
+            <!-- =========================
+                 SUGGESTIONS
+            ========================== -->
+
+            <div class="suggestions-section">
+
+                <div class="suggestion-title">
+                    <span>✦</span>
+                    <span>Try asking something like...</span>
+                </div>
+
+
+                <div class="suggestions">
+
+                    <button
+                        class="suggestion-card"
+                        data-question="How much is Hazelnut Dunkaccino?"
+                    >
+
+                        <span class="suggestion-icon">
+                            ☕
+                        </span>
+
+                        <div>
+                            <strong>
+                                Check price
+                            </strong>
+
+                            <small>
+                                Hazelnut Dunkaccino
+                            </small>
+                        </div>
+
+                    </button>
+
+
+                    <button
+                        class="suggestion-card"
+                        data-question="What beverages are available?"
+                    >
+
+                        <span class="suggestion-icon">
+                            🥤
+                        </span>
+
+                        <div>
+                            <strong>
+                                Beverages
+                            </strong>
+
+                            <small>
+                                Explore drinks
+                            </small>
+                        </div>
+
+                    </button>
+
+
+                    <button
+                        class="suggestion-card"
+                        data-question="What burger meals are available?"
+                    >
+
+                        <span class="suggestion-icon">
+                            🍔
+                        </span>
+
+                        <div>
+                            <strong>
+                                Burger meals
+                            </strong>
+
+                            <small>
+                                Explore meals
+                            </small>
+                        </div>
+
+                    </button>
+
+
+                    <button
+                        class="suggestion-card"
+                        data-question="What snacks are available?"
+                    >
+
+                        <span class="suggestion-icon">
+                            🍟
+                        </span>
+
+                        <div>
+                            <strong>
+                                Snacks
+                            </strong>
+
+                            <small>
+                                Explore options
+                            </small>
+                        </div>
+
+                    </button>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- =========================
+                 CHAT INPUT
+            ========================== -->
+
+            <div class="composer">
+
+                <span class="paperclip">
+                    ♡
+                </span>
+
+                <input
+                    type="text"
+                    id="messageInput"
+                    placeholder="Ask about the Dunkin menu..."
+                    autocomplete="off"
+                >
+
+                <button
+                    class="send-button"
+                    id="sendButton"
+                    aria-label="Send message"
+                >
+                    ➤
+                </button>
+
+            </div>
+
+
+            <!-- Disclaimer -->
+
+            <div class="disclaimer">
+
+                <span>🔒</span>
+
+                <span>
+                    This AI assistant uses retrieved menu data
+                    to answer your questions.
+                </span>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+
+    <!-- =========================
+         COMPLAINT MODAL
+    ========================== -->
+
+    <div
+        class="complaint-overlay"
+        id="complaintOverlay"
+    >
+
+        <div class="complaint-modal">
+
+
+            <!-- Header -->
+
+            <div class="complaint-header">
+
+                <div>
+
+                    <h2>
+                        Report an Issue
+                    </h2>
+
+                    <p>
+                        Help us improve your Dunkin experience.
+                    </p>
+
+                </div>
+
+
+                <button
+                    class="close-complaint"
+                    id="closeComplaint"
+                >
+                    ×
+                </button>
+
+            </div>
+
+
+
+            <!-- Form -->
+
+            <form id="complaintForm">
+
+
+                <!-- Issue Type -->
+
+                <div class="form-group">
+
+                    <label for="complaintType">
+                        What is the issue?
+                    </label>
+
+                    <select
+                        id="complaintType"
+                        required
+                    >
+
+                        <option value="">
+                            Select an issue
+                        </option>
+
+                        <option value="menu">
+                            Menu information
+                        </option>
+
+                        <option value="price">
+                            Incorrect price
+                        </option>
+
+                        <option value="order">
+                            Order related
+                        </option>
+
+                        <option value="service">
+                            Service complaint
+                        </option>
+
+                        <option value="technical">
+                            Technical problem
+                        </option>
+
+                        <option value="other">
+                            Other
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+
+                <!-- Name -->
+
+                <div class="form-group">
+
+                    <label for="complaintName">
+                        Name
+                        <span>(optional)</span>
+                    </label>
+
+                    <input
+                        type="text"
+                        id="complaintName"
+                        placeholder="Enter your name"
+                    >
+
+                </div>
+
+
+
+                <!-- Email -->
+
+                <div class="form-group">
+
+                    <label for="complaintEmail">
+                        Email
+                        <span>(optional)</span>
+                    </label>
+
+                    <input
+                        type="email"
+                        id="complaintEmail"
+                        placeholder="Enter your email"
+                    >
+
+                </div>
+
+
+
+                <!-- Message -->
+
+                <div class="form-group">
+
+                    <label for="complaintMessage">
+                        Tell us what happened
+                    </label>
+
+                    <textarea
+                        id="complaintMessage"
+                        rows="5"
+                        placeholder="Describe your complaint or issue..."
+                        required
+                    ></textarea>
+
+                </div>
+
+
+
+                <!-- Submit -->
+
+                <button
+                    type="submit"
+                    class="submit-complaint"
+                >
+                    Submit Complaint
+                </button>
+
+
+                <!-- Success -->
+
+                <p
+                    class="complaint-success"
+                    id="complaintSuccess"
+                >
+                    ✓ Thank you. Your complaint has been recorded.
+                </p>
+
+            </form>
+
+        </div>
+
+    </div>
+
+
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>

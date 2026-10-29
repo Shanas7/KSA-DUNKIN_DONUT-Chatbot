@@ -1,0 +1,544 @@
+Pickup
+From
+Select Outlet
+CHANGE
+LOGIN / SIGN UP
+Menu Categories
+Cold Beverages
+22
+Hot Beverages
+3
+Burgers & More
+31
+Burger Meals
+14
+Single Burger
+11
+Wraps
+2
+Snacks
+4
+Combos
+21
+Veg
+Non-Veg
+Cold Beverages
+22
+
+Hazelnut Dunkaccino
+
+₹ 199.00
+
+ADD
+Customisable
+
+Classic Dunkaccino
+
+₹ 169.00
+
+ADD
+Customisable
+
+Caramel Dunkaccino
+
+₹ 189.00
+
+ADD
+Customisable
+
+Choco Hazelnut Dunkaccino
+
+₹ 179.00
+
+ADD
+Customisable
+
+Mocha Chip Dunkaccino
+
+₹ 189.00
+
+ADD
+Customisable
+
+Classic Iced Coffee
+
+₹ 159.00
+
+ADD
+Customisable
+
+Hazelnut Iced Coffee
+
+₹ 189.00
+
+ADD
+Customisable
+
+Choco Iced Coffee
+
+₹ 189.00
+
+ADD
+Customisable
+
+Caramel Iced Coffee
+
+₹ 189.00
+
+ADD
+Customisable
+
+Fruit Berry
+
+₹ 209.00
+
+ADD
+Customisable
+
+Chocolate Milk Shake
+
+₹ 179.00
+
+ADD
+Customisable
+
+Virgin Mojito
+
+₹ 119.00
+
+ADD
+Customisable
+
+Classic Lemonade
+
+₹ 119.00
+
+ADD
+Customisable
+
+Cookie Crumble Super Thick Cold Coffee
+
+₹ 219.00
+
+ADD
+Customisable
+
+Cookie Mocha Super Thick Cold Coffee
+
+₹ 219.00
+
+ADD
+Customisable
+
+Classic Cold Coffee
+
+₹ 169.00
+
+ADD
+Customisable
+
+Hazelnut Cold Coffee
+
+₹ 169.00
+
+ADD
+Customisable
+
+Caramel Cold Coffee
+
+₹ 189.00
+
+ADD
+Customisable
+
+Lemon Iced Tea
+
+₹ 149.00
+
+ADD
+Customisable
+
+Peach Iced Tea
+
+₹ 169.00
+
+ADD
+Customisable
+
+Pepsi - 500ml
+
+₹ 60.00
+
+ADD
+Customisable
+
+Bailley Premium (500ml)
+
+₹ 19.00
+
+ADD
+Customisable
+Hot Beverages
+3
+
+Regular Chai
+
+₹ 159.00
+
+ADD
+Customisable
+
+Elaichi Chai
+
+₹ 199.00
+
+ADD
+Customisable
+
+Fresh Ginger Chai
+
+₹ 199.00
+
+ADD
+Customisable
+Burgers & More
+31
+Burger Meals
+14
+
+Big Joy Veg Burger Meal
+
+₹ 199.00
+
+ADD
+
+Big Joy Mayo Veg Burger Meal
+
+₹ 219.00
+
+ADD
+
+Double Big Joy Mayo Veg Burger Meal
+
+₹ 259.00
+
+ADD
+
+Chef Special Veg Burger Meal
+
+₹ 309.00
+
+ADD
+
+Naughty Lucy Veg Burger Meal
+
+₹ 399.00
+
+ADD
+
+Farmhouse Monster Meal
+
+₹ 379.00
+
+ADD
+
+Big Joy Mayo Burger Non Veg Meal
+
+₹ 249.00
+
+ADD
+
+Double Big Joy Mayo Burger Chicken Meal
+
+₹ 279.00
+
+ADD
+
+Classic Chicken Burger Meal
+
+₹ 219.00
+
+ADD
+
+Spicy Grilled Chicken Burger Meal
+
+₹ 319.00
+
+ADD
+
+Heaven Can Wait Burger Meal
+
+₹ 379.00
+
+ADD
+
+Naughty Lucy Chicken Burger Meal
+
+₹ 399.00
+
+ADD
+
+Chicken Grilled Monster Burger Meal
+
+₹ 399.00
+
+ADD
+
+Double Big Joy Veg Burger Meal
+
+₹ 249.00
+
+ADD
+Single Burger
+11
+
+Big Joy Veg Burger
+
+₹ 89.00
+
+ADD
+
+Double Big Joy Veg Burger
+
+₹ 139.00
+
+ADD
+
+Chef Special Veg Burger
+
+₹ 189.00
+
+ADD
+
+Naughty Lucy Veg Burger
+
+₹ 279.00
+
+ADD
+
+Farmhouse Monster Burger
+
+₹ 259.00
+
+ADD
+
+Big Joy Mayo Chicken Burger
+
+₹ 139.00
+
+ADD
+
+Classic Chicken Burger
+
+₹ 119.00
+
+ADD
+
+Spicy Grilled Chicken Burger
+
+₹ 189.00
+
+ADD
+
+Heaven Can Wait Burger
+
+₹ 259.00
+
+ADD
+
+Naughty Lucy Chicken Burger
+
+₹ 279.00
+
+ADD
+
+Grilled Chicken Monster Burger
+
+₹ 289.00
+
+ADD
+Wraps
+2
+
+Veg Makhani Wrap
+
+₹ 169.00
+
+ADD
+
+Chicken Makhani Wrap
+
+₹ 179.00
+
+ADD
+Snacks
+4
+
+Potato Hash Brown (3 Pcs)
+
+₹ 79.00
+
+ADD
+
+Tex Mex Potato Wedges
+
+₹ 79.00
+
+ADD
+
+Nachos Veg
+
+₹ 99.00
+
+ADD
+
+Nachos Chicken
+
+₹ 109.00
+
+ADD
+Combos
+21
+
+Pack of 6 All Time Favourite Donuts
+
+₹ 399.00
+
+ADD
+Customisable
+
+Buy 9 Get 3 FREE!! All Time Favourite Donuts
+
+₹ 749.00
+
+ADD
+Customisable
+
+Pack of 3 All Time Favourite Donuts
+
+₹ 229.00
+
+ADD
+Customisable
+
+Pack of 6 Classic Donuts
+
+₹ 349.00
+
+ADD
+Customisable
+
+Big Joy Veg Burger Meal
+
+₹ 175.00
+
+ADD
+
+Big Joy Mayo Veg Burger Meal
+
+₹ 205.00
+
+ADD
+
+Double Big Joy Mayo Veg Burger Meal
+
+₹ 235.00
+
+ADD
+
+Naughty Lucy Veg Burger Meal
+
+₹ 399.00
+
+ADD
+
+Farmhouse Monster Meal
+
+₹ 379.00
+
+ADD
+
+Big Joy Mayo Burger Non Veg Meal
+
+₹ 225.00
+
+ADD
+
+Double Big Joy Mayo Burger Chicken Meal
+
+₹ 259.00
+
+ADD
+
+Classic Chicken Burger Meal
+
+₹ 205.00
+
+ADD
+
+Spicy Grilled Chicken Burger Meal
+
+₹ 319.00
+
+ADD
+
+Heaven Can Wait Burger Meal
+
+₹ 335.00
+
+ADD
+
+Naughty Lucy Chicken Burger Meal
+
+₹ 399.00
+
+ADD
+
+Chicken Grilled Monster Burger Meal
+
+₹ 369.00
+
+ADD
+
+Box of 3 ATF + 2 Cold Coffee
+
+₹ 469.00
+
+ADD
+Customisable
+
+2 Dunkin' Cold Coffee
+
+₹ 199.00
+
+ADD
+Customisable
+
+Buy 4 Get 2 Free Signature Donuts
+
+₹ 449.00
+
+ADD
+Customisable
+
+Double Big Joy Veg Burger Meal
+
+₹ 239.00
+
+ADD
+
+Chef's Special Veg Burger Meal
+
+₹ 319.00
+
+ADD
+Cart
+₹ 0.00
+
+min. order ₹ 0.00
+
+Look like your cart is empty
+
+Please add something to place order
+
+PROCEED TO PAY
